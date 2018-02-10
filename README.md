@@ -1,2 +1,3 @@
-# thinkbetter
-gjgh
+<?php
+echo "hello"
+?>
